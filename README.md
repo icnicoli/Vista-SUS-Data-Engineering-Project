@@ -92,7 +92,7 @@ This plot visualizes how each participant responded to the different SUS questio
 
 ![Participant-Responses-Heatmap](https://github.com/user-attachments/assets/f3854e38-5cdf-4e2d-b3b9-3dd82876fef4)
 
-## My takeaway
+## My Takeaway
 
 This project showcases the entire pipeline of handling a real-world dataset from loading and cleaning data to performing analysis and creating visualizations.
 
